@@ -1,2 +1,2 @@
 <h1>Massage4U-website</h1>
-make a practise website to jog my memory. not the best but other websites should be better :)
+This was my BTEC Extend Diploma for basic HTML and CSS web development. This was the first but of many websites I have since started learning about web develpment.
